@@ -1,0 +1,17 @@
+encapsulation,The bundling of data and the methods that operate on the data into a single unit or class
+inheritance,The mechanism by which one class acquires the properties and behaviors of another class
+polymorphism,The ability of a function or object to take on multiple forms
+abstraction,The concept of hiding complex implementation details and showing only the necessary features of an object
+class,A blueprint for creating objects that defines a set of attributes and methods
+object,An instance of a class that contains data and methods to manipulate that data
+constructor,A special method that is automatically called when an object is created
+destructor,A special method that is automatically called when an object is destroyed
+overloading,Defining multiple functions with the same name but different parameters
+overriding,The process of redefining a base class method in a derived class with the same signature
+virtual,Keyword used to declare a method in a base class that can be overridden in a derived class
+abstract class,A class that cannot be instantiated and is meant to be subclassed
+interface,A contract that defines a set of methods that implementing classes must provide
+friend,Keyword used to give a function or class access to private and protected members of another class
+operator overloading,The process of defining custom behaviors for operators (e.g., +, -, *) for user-defined types
+template, A mechanism for writing generic code that can work with different data types
+template metaprogramming, The use of templates to perform computations at compile-time
