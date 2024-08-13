@@ -32,7 +32,7 @@ This is a simple command-line Hangman game implemented in C++. The game randomly
    
 ## Game Instructions
 
--The game will randomly select a word from the words.txt file.
+The game will randomly select a word from the words.txt file.
 - The word will be displayed with underscores (_) representing each letter.
 - A hint for the word will be provided.
 - You will be prompted to guess one letter at a time.
@@ -50,4 +50,4 @@ This is a simple command-line Hangman game implemented in C++. The game randomly
 
 ## License
 
--This project is open source and available under the MIT License.
+This project is open source and available under the MIT License.
